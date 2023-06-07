@@ -1,6 +1,10 @@
 # Setting Up Your Project
 
-Let’s start by creating a new Unity project, we’re going to use the Third Person starter project!
+Let's start bt creating a simple third-person game in Unity using the Starter Assets: Third-Person Controller!
+
+## Using the Unity Templates
+
+Unity provides a third-person starter template that makes it super simple to create a new Third-Person game!
 
 ![third-person-template](img/third-person-template.png)
 
