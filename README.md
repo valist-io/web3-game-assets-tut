@@ -2,7 +2,7 @@
 
 ## [Setting Up Your Project](/docs/setting-up-your-project)
 
-## Using the Unity Templates
+### Using the Unity Templates
 
 ### Building for Web (WebGL)
 
