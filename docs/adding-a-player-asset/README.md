@@ -1,4 +1,4 @@
-# Add a Player Asset
+# Adding a Player Asset
 
 Next, we will be adding a new model for our player character inside our third-person Unity game!
 

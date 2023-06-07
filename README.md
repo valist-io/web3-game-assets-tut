@@ -1,27 +1,29 @@
 # Adding Web3 Assets to a Unity Game
 
-## [Setting Up Your Project](/docs/setting-up-your-project)
+## [1. Setting Up Your Project](/docs/setting-up-your-project)
 
 ### Using the Unity Starter Templates
 
 ### Building for Web (WebGL)
 
-## [Add a Player Asset](/docs/add-aplayer-asset)
+## [2. Adding a Player Asset](/docs/adding-a-player-asset)
 
 ### Downloading the Models
 
 ### Adding the Player Model
 
-## [Deploy a Smart Contract](/docs/deploy-a-smart-contract)
+## [3. Deploying a Smart Contract](/docs/deploying-a-smart-contract)
 
-### Getting Testnet ETH for Gas
+### Getting Testnet Polygon for Gas
 
-### Deploying the Smart Contract
+### Deploying on Polygon
 
 ### Getting the Contract Details
 
-## [Token Gate an Asset](/docs/token-gate-an-asset)
+## [4. Token Gate an Asset](/docs/token-gate-an-asset)
 
 ### Connecting to an RPC Provider
 
 ### Adding the Balance Check
+
+## [5. Publishing Your Game](/docs/publishing-your-game)
