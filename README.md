@@ -12,11 +12,11 @@
 
 ## [Deploy a Smart Contract](/docs/deploy-a-smart-contract)
 
-## Getting Testnet ETH for Gas
+### Getting Testnet ETH for Gas
 
-## Deploying the Smart Contract
+### Deploying the Smart Contract
 
-## Getting the Contract Details
+### Getting the Contract Details
 
 ## [Token Gate an Asset](/docs/token-gate-an-asset)
 
