@@ -22,7 +22,7 @@ Save the model to your Unity project under the **Prefabs** folder.
 
 ![model-save](img/model-save.png)
 
-## Adding the Player Asset
+## Adding the Player Model
 
 By navigating to the **Prefabs** folder of my project and clicking on the **SwatGuy** fbx file, we should now be able to preview the model.
 

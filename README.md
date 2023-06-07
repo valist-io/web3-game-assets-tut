@@ -6,6 +6,6 @@
 
 ## [Add a Player Character]('/docs/setting-up-your-project)
 
-### Downloading the models
+### Downloading the Models
 
-### Adding the Player Asset
+### Adding the Player Model
