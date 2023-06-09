@@ -20,7 +20,7 @@
 
 ### Getting the Contract Details
 
-## [4. Token Gate an Asset](/docs/token-gate-an-asset)
+## [4. Token Gating an Asset](/docs/token-gating-an-asset)
 
 ### Connecting to an RPC Provider
 
