@@ -28,7 +28,7 @@ Sweet now, let's take a look at our new AuthScreen by opening the `AuthScreen` f
 
 ![open-auth-screen](img/open-auth-screen.png)
 
-If you're prompted to install `Import TMP Essentials`. Click the button to import. Then click on the `AuthCheck` game object in the Hierarchy sidebar.
+If you're prompted to `Import TMP Essentials`. Click the button to import. Then click on the `AuthCheck` game object in the Hierarchy sidebar.
 
 ![add-get-contract-script](img/add-get-contract-script.png)
 
