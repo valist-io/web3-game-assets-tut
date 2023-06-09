@@ -17,3 +17,5 @@ From the release page we can fill in some basic info about the release such as t
 ![valist-release-info](img/valist-release-info.png)
 
 Finally, all we have to do is select our built unity project and click **Create**!
+
+![valist-release-upload](img/valist-release-upload.png)
