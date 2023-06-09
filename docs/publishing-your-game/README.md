@@ -4,7 +4,7 @@ We've created our basic demo game with ur live web3 assets token gated inside th
 
 ...Valist to the rescue!
 
-We can create a new account and project on Valist at from the [Valist dashboard](https://app.valist.io/dashboard)
+We can create a new account and project on Valist from the [Valist dashboard](https://app.valist.io/dashboard)
 
 Once we've created our new account/project we're ready to publish the first release of our game!
 
