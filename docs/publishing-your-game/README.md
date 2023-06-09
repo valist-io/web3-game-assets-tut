@@ -12,7 +12,7 @@ Once we've created our new account/project we're ready to publish the first rele
 
 New Valist releases can be published by clicking the **New Release** button on a project's profile page.
 
-From the release page we can fill in some basic info about the release such as the `Release Name` and any `Release Notes`.
+From the release page, we can fill in some basic info about the release such as the `Release Name` and any `Release Notes`.
 
 ![valist-release-info](img/valist-release-info.png)
 
