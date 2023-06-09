@@ -41,7 +41,7 @@ We're almost finished, next, we have to add the `AuthScreen` to the list of game
 
 ![add-auth-scene](img/add-auth-scene.png)
 
-Now for the final step, we just have to set the web3Template as our WebGL template for our build. to do this we can click `Player Settings` and then navigate to the `Resolution and Presentation` section where all we have to do is click the `Web3Template`.
+Now for the final step, we just have to set the web3Template as our WebGL template for our build. To do this we can click `Player Settings` and then navigate to the `Resolution and Presentation` section where all we have to do is click the `Web3Template`.
 
 ![update-webgl-template](img/update-webgl-template.png)
 
