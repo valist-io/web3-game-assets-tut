@@ -30,10 +30,10 @@ Sweet now, let's take a look at our new AuthScreen by opening the `AuthScreen` f
 
 If you're prompted to `Import TMP Essentials`. Click the button to import. Then click on the `AuthCheck` game object in the Hierarchy sidebar.
 
-![add-get-contract-script](img/add-get-contract-script.png)
-
 We need to add our `GetContract` script to the `AuthCheck` game object so that it checks the user's contract balance when the scene loads.
 You may have to search for the script in the dialog.
+
+![add-get-contract-script](img/add-get-contract-script.png)
 
 ## Configuring the scenes
 
